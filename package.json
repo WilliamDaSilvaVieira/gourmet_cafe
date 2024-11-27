@@ -1,0 +1,22 @@
+{
+  "name": "gourmet-cafe",
+  "version": "1.0.0",
+  "description": "Vue, Express, MongoDB, school project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "author": "William Da Silva Vieira",
+  "license": "MIT",
+  "dependencies": {
+    "@vue/cli": "^5.0.8",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mongodb": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
