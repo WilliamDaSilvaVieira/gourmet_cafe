@@ -351,6 +351,7 @@ footer button {
 .order-list > h4 {
   padding: 12px;
   font-weight: 200;
+  font-size: 16pt;
 }
 
 .final-price {
@@ -374,6 +375,7 @@ footer button {
   padding: 10px;
   border-bottom: 1px solid white;
   color: white;
+  font-size: 16pt;
   font-weight: 200;
 }
 
@@ -383,6 +385,7 @@ footer button {
   border-bottom: 1px solid white;
   color: white;
   font-weight: 200;
+  font-size: 16pt;
 }
 
 .pay-box {
